@@ -1,0 +1,16 @@
+.heading
+{
+    font-size: 10px;
+    width: 100%;
+    margin: 0;  
+    line-height: 3 ;
+}
+.note
+{
+    font-size: 11px;
+}
+Canvas
+{
+border: red;
+border-radius:10px;
+}
